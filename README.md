@@ -1,10 +1,12 @@
-# Overview
+<!-- # Overview
 - 👋 Hi, I’m @TahidulAlam
-- 👀 I’m interested in 0101
-
+- 👀 I’m interested in 0101 -->
 <!-- ![The Web Development are beautiful!](/images/githubBanner2.png "Web Development") -->
 ![The Web Development are beautiful!](/images/Untitled-1Image.png "Web Development")
 
+<h3 align="center">
+Web Developer || IT Enthusiast
+</h3>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahidulAlam&theme=blux)](https://git.io/streak-stats) -->
 
 <p align="center">

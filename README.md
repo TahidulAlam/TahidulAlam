@@ -29,7 +29,7 @@ Web Developer | IT Enthusiast
 
 </p>
 
-
+## Social Links
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mdtahidulalam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -51,6 +51,8 @@ Web Developer | IT Enthusiast
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahidulAlam&theme=blux)](https://git.io/streak-stats) -->
+
+## Current Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">

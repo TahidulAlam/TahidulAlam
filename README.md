@@ -11,23 +11,6 @@ Web Developer | IT Enthusiast
 - 👀 I’m exploring - Next Js and React Native.
 - 💎 I’m looking - To collaborate on open source projects.
 
-## Language and tools
-
-  <p align="center">
-  <img src="./images/icon/HTML.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/CSS.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/JavaScript.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/NodeJS-Light.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/React-Light.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/TailwindCSS-Light.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/C.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/MongoDB.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/Vercel-Light.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/Git.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/Bootstrap.svg" width="50px"  alt="HTML Icon">
-  <img src="./images/icon/Illustrator.svg" width="50px"  alt="HTML Icon">
-
-</p>
 
 ## Social Links
 <div id="badges" align="center">
@@ -51,6 +34,26 @@ Web Developer | IT Enthusiast
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahidulAlam&theme=blux)](https://git.io/streak-stats) -->
+
+
+
+## Language and tools
+
+  <p align="center">
+  <img src="./images/icon/HTML.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/CSS.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/JavaScript.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/NodeJS-Light.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/React-Light.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/TailwindCSS-Light.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/C.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/MongoDB.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/Vercel-Light.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/Git.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/Bootstrap.svg" width="50px"  alt="HTML Icon">
+  <img src="./images/icon/Illustrator.svg" width="50px"  alt="HTML Icon">
+
+</p>
 
 ## Current Stats
 

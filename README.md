@@ -1,5 +1,5 @@
 <!-- ![The Web Development are beautiful!](/images/githubBanner2.png "Web Development") -->
-![The Web Development are beautiful!](/images/Untitled-1Image.png "Web Development")
+![The Web Development are beautiful!](/images/Untitled-2.png "Web Development")
 
 <h3 align="center">
 Web Developer | IT Enthusiast

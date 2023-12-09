@@ -12,7 +12,7 @@ Web Developer | IT Enthusiast
 - 💎 I’m looking - To collaborate on open source projects.
 
 
-## Social Links
+## Reach me out
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mdtahidulalam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,18 +26,9 @@ Web Developer | IT Enthusiast
 </div>
 
 
-<!-- <p align="center">
-  <a href="">
-    <img src="/images/" alt="Shiprock, New Mexico by Beau Rogers">
-  </a>
-</p> -->
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahidulAlam&theme=blux)](https://git.io/streak-stats) -->
-
-
-
-## Language and tools
+## Technologies that I know
 
   <p align="center">
   <img src="./images/icon/HTML.svg" width="50px"  alt="HTML Icon">
@@ -62,6 +53,7 @@ Web Developer | IT Enthusiast
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TahidulAlam&theme=blux" alt="GitHub Streak" />
   </a>
 </p>
+
 
 
 
